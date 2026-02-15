@@ -12,17 +12,37 @@ We are a small, independent research group working on foundational problems at t
 
 We develop methods for real-time 3D scene understanding — monocular depth estimation, Gaussian splatting, and spatiotemporal representations that capture how environments evolve over time. Our interest extends to world models: learned simulators of environment dynamics that enable agents to predict, plan, and act within physical spaces before committing to action.
 
+> **Inspiration** — [Google DeepMind](https://github.com/google-deepmind) | [Meta FAIR](https://github.com/facebookresearch) (JEPA) | [Google AI Studio](https://aistudio.google.com/) | [Overworld](https://over.world/) (diffusion world models)
+
 ### Neurosymbolic & Hierarchical Reinforcement Learning
 
 We design architectures that combine neural perception with symbolic program induction — enabling agents to discover compositional task structure, learn transferable hierarchical policies, and generalise to novel environments zero-shot. The goal is agents that reason, not just react.
+
+> **Inspiration** — [Symbolica](https://github.com/ExtensityAI/symbolicai) | [Sakana AI](https://github.com/SakanaAI) | [DeepMind](https://github.com/google-deepmind)
 
 ### Mechanistic Interpretability
 
 We study the internal representations of neural networks to understand *how* and *why* models behave as they do. Our interpretability work informs the design of more transparent, steerable AI systems.
 
+> **Inspiration** — [Neel Nanda / MATS](https://www.matsprogram.org/) | [GoodFire](https://github.com/goodfire-ai) | [SPAR AI](https://sparai.org/) | [Sakana AI](https://github.com/SakanaAI)
+
+### Efficiency
+
+We pursue research into inference-time and training-time efficiency — speculative decoding, block diffusion, quantisation, and kernel-level optimisation for making large models fast and accessible on constrained hardware.
+
+> **Inspiration** — [DFlash](https://github.com/z-lab/dflash) | [Tri Dao / FlashAttention](https://github.com/Dao-AILab) | [DeepMind](https://github.com/google-deepmind)
+
 ### Scientific Machine Learning
 
 We contribute to the Julia and Python scientific computing ecosystems, particularly in medical imaging, volumetric segmentation, and differentiable scientific computing through the [JuliaHealth](https://github.com/JuliaHealth) and [SciML](https://github.com/SciML) organisations.
+
+> **Inspiration** — [SciML](https://github.com/SciML) | [JuliaHealth](https://github.com/JuliaHealth) | [Aalto ASCI](https://www.aalto.fi/en/aalto-science-institute-asci) | [Peking University AI Lab](https://www.cis.pku.edu.cn/)
+
+---
+
+## Target Venues
+
+**Conferences** — ECCV, CVPR, NeurIPS, ICML, JuliaCon
 
 ---
 
