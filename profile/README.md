@@ -36,8 +36,14 @@ We pursue research into inference-time and training-time efficiency — speculat
 
 We contribute to the Julia and Python scientific computing ecosystems, particularly in medical imaging, volumetric segmentation, and differentiable scientific computing through the [JuliaHealth](https://github.com/JuliaHealth) and [SciML](https://github.com/SciML) organisations.
 
-> **Inspiration** — [SciML](https://github.com/SciML) | [JuliaHealth](https://github.com/JuliaHealth) | [Aalto ASCI](https://www.aalto.fi/en/aalto-science-institute-asci) | [Peking University AI Lab](https://www.cis.pku.edu.cn/)
+> **Inspiration** — [SciML](https://github.com/SciML) | [JuliaHealth](https://github.com/JuliaHealth) | [Aalto ASCI](https://www.aalto.fi/en/aalto-science-institute-asci) | [Pumas AI](https://pumas.ai)
 
+### Human Centered AI & Mixed Reality
+
+We explore the intersection of human-centered design, immersive computing, and AI-driven interaction in mixed reality environments - spatial user interfaces, embodied interaction in XR, AI-assisted content creation for virtual worlds,
+and real-time 3D rendering pipelines for accessible immersive experiences.
+
+> **Inspiration** - [Georgia Tech Polo Data Science Lab](https://poloclub.github.io/) | [Cocolinux](https://github.com/cocolinux) | [Hash3D](https://github.com/nickhui97) | [Neurosama](https://virtualyoutuber.fandom.com/wiki/Neuro-sama) | [LukeRoss VR](https://www.realvr.com/)
 ---
 
 ## Target Venues
