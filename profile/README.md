@@ -18,7 +18,7 @@ We develop methods for real-time 3D scene understanding — monocular depth esti
 
 We design architectures that combine neural perception with symbolic program induction — enabling agents to discover compositional task structure, learn transferable hierarchical policies, and generalise to novel environments zero-shot. The goal is agents that reason, not just react.
 
-> **Inspiration** — [Symbolica](https://github.com/ExtensityAI/symbolicai) | [Sakana AI](https://github.com/SakanaAI) | [DeepMind](https://github.com/google-deepmind)
+> **Inspiration** — [Symbolica](https://github.com/ExtensityAI/symbolicai) | [Sakana AI](https://github.com/SakanaAI) | [DeepMind](https://github.com/google-deepmind) | [Peking university](https://github.com/pku-ml-group/pku-ml-group.github.io/)
 
 ### Mechanistic Interpretability
 
