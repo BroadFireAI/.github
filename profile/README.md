@@ -106,7 +106,7 @@ Cross-cutting organisations we track that span multiple research directions.
 
 ## Target Venues
 
-**Conferences** — ECCV, CVPR, NeurIPS, ICML, JuliaCon
+**Conferences** — ECCV, CVPR, NeurIPS, ICML, JuliaCon, [AGI Conference](https://agi-conference.org/) (Annual Conference on Artificial General Intelligence)
 
 ---
 
