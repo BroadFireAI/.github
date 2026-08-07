@@ -49,6 +49,8 @@ We pursue research into inference-time and training-time efficiency — speculat
 > **Researchers** — [Hiroki Naganuma](https://hiroki11x.github.io/) (NVIDIA / Mila; large-scale optimization, distributed training) | Fuli Luo (Xiaomi; DeepSeek-V2, VECO) | [Xiuyu Li](https://sheriyuo.github.io/) (StepFun; RL post-training, test-time scaling) | [Xiuyu Li](https://xiuyuli.com/) (ex-xAI / BAIR; SqueezeLLM, Q-Diffusion) | [Siyuan Han](https://hsyodyssey.com/) (Binance; learned indexes, ML for systems)
 >
 > **Companies** — [Inception Labs](https://www.inceptionlabs.ai/) | [Google DeepMind](https://deepmind.google/) (Diffusion Gemma) | [Cartesia](https://cartesia.ai/) | [Liquid AI](https://www.liquid.ai/)
+>
+> **Readings** — [Frontier Model Training Methodologies (Alex Wa)](https://djdumpling.github.io/2026/01/31/frontier_training.html)
 
 ### Scientific Machine Learning
 
@@ -84,6 +86,8 @@ We track systems where LLM agents carry out scientific workflows - hypothesis ge
 > **Researchers** - [Seungone Kim](https://seungonekim.github.io/) (CMU LTI; Prometheus 2, BiGGen Bench, AI for science)
 >
 > **Companies** - [Andon Labs](https://andonlabs.com/) | [Phylo](https://phylo.bio/) | [MiroFish](https://mirofish.ai/)
+>
+> **Readings** - [Alex L. Zhang's blog](https://alexzhang13.github.io/blog/) (Recursive Language Models, harnesses, scaffolds)
 
 ### Quantum Computing & Quantum Matter
 
@@ -102,7 +106,7 @@ Cross-cutting organisations we track that span multiple research directions.
 
 **Compute Infrastructure** - [SF Compute](https://sfcompute.com/) | [Cast AI](https://cast.ai/) | [Prime Intellect](https://www.primeintellect.ai/)
 
-**Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) | [PaperLens](https://paperlens.io/)
+**Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) | [PaperLens](https://paperlens.io/) | [ML Job Interviews: The Ultimate Guide (Silvia Sapora)](https://silviasapora.github.io/blog/ml-interviews.html)
 
 ---
 
