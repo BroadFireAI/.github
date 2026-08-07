@@ -2,6 +2,8 @@
 
 **Open research in spatial intelligence, neurosymbolic reasoning, mechanistic interpretability, and embodied AI.**
 
+**Research interests** — representation learning | causality | self-supervised learning | transcendental memory | large-scale optimisation | distributed training | efficient inference
+
 ---
 
 We are a small, independent research group working on foundational problems at the intersection of 3D spatial understanding, world models, and structured reasoning. Our work is guided by the belief that the next generation of intelligent systems must move beyond flat pattern matching toward compositional, physically grounded understanding of the world.
@@ -48,7 +50,7 @@ We pursue research into inference-time and training-time efficiency — speculat
 
 > **Inspiration** — [Z Lab](https://z-lab.ai/) ([DFlash](https://github.com/z-lab/dflash), ParoQuant, SparseLoRA) | [Tri Dao / FlashAttention](https://github.com/Dao-AILab) | [DeepMind](https://github.com/google-deepmind)
 >
-> **Researchers** — [Hiroki Naganuma](https://hiroki11x.github.io/) (NVIDIA / Mila; large-scale optimization, distributed training) | Fuli Luo (Xiaomi; DeepSeek-V2, VECO) | [Xiuyu Li](https://sheriyuo.github.io/) (StepFun; RL post-training, test-time scaling) | [Xiuyu Li](https://xiuyuli.com/) (ex-xAI / BAIR; SqueezeLLM, Q-Diffusion) | [Siyuan Han](https://hsyodyssey.com/) (Binance; learned indexes, ML for systems)
+> **Researchers** — [Hiroki Naganuma](https://hiroki11x.github.io/) (NVIDIA / Mila; large-scale optimization, distributed training) | Fuli Luo (Xiaomi; DeepSeek-V2, VECO) | [Xiuyu Li](https://sheriyuo.github.io/) (StepFun; RL post-training, test-time scaling) | [Xiuyu Li](https://xiuyuli.com/) (ex-xAI / BAIR; SqueezeLLM, Q-Diffusion) | [Siyuan Han](https://hsyodyssey.com/) (Binance; learned indexes, ML for systems) | [Alex L. Zhang](https://alexzhang13.github.io/) (MIT CSAIL; Recursive Language Models, KernelBench, GPU kernels) | [Alex Wa](https://djdumpling.github.io/) (Yale; RL, nanoGPT speedrunning, ML systems)
 >
 > **Companies** — [Inception Labs](https://www.inceptionlabs.ai/) | [Google DeepMind](https://deepmind.google/) (Diffusion Gemma) | [Cartesia](https://cartesia.ai/) | [Liquid AI](https://www.liquid.ai/)
 >
