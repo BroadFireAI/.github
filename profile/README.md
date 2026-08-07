@@ -106,7 +106,9 @@ Cross-cutting organisations we track that span multiple research directions.
 
 **Compute Infrastructure** - [SF Compute](https://sfcompute.com/) | [Cast AI](https://cast.ai/) | [Prime Intellect](https://www.primeintellect.ai/)
 
-**Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) | [PaperLens](https://paperlens.io/) | [ML Job Interviews: The Ultimate Guide (Silvia Sapora)](https://silviasapora.github.io/blog/ml-interviews.html)
+**Benchmarks & Research Trackers** - [RoboDojo](https://robodojo-benchmark.com/leaderboard) (sim-and-real benchmark for generalist robot manipulation) | [Real Deep Research](https://realdeepresearch.github.io/) (research trend surveys across AI and robotics) | [XPENG Robotics Research](https://xpeng-robotics.github.io/) (multimodal team blog: Si0, Fe0, DIAL)
+
+**Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) | [PaperLens](https://paperlens.io/) | [ML Job Interviews: The Ultimate Guide (Silvia Sapora)](https://silviasapora.github.io/blog/ml-interviews.html) | [foorilla](https://foorilla.com/) (tech jobs and media hub) | [FMHY](https://fmhy.net/) (free resources index)
 
 ---
 
