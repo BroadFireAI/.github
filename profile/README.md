@@ -44,7 +44,7 @@ We study the internal representations of neural networks to understand *how* and
 
 We pursue research into inference-time and training-time efficiency — speculative decoding, block diffusion, quantisation, and kernel-level optimisation for making large models fast and accessible on constrained hardware.
 
-> **Inspiration** — [DFlash](https://github.com/z-lab/dflash) | [Tri Dao / FlashAttention](https://github.com/Dao-AILab) | [DeepMind](https://github.com/google-deepmind)
+> **Inspiration** — [Z Lab](https://z-lab.ai/) ([DFlash](https://github.com/z-lab/dflash), ParoQuant, SparseLoRA) | [Tri Dao / FlashAttention](https://github.com/Dao-AILab) | [DeepMind](https://github.com/google-deepmind)
 >
 > **Researchers** — [Hiroki Naganuma](https://hiroki11x.github.io/) (NVIDIA / Mila; large-scale optimization, distributed training) | Fuli Luo (Xiaomi; DeepSeek-V2, VECO) | [Xiuyu Li](https://sheriyuo.github.io/) (StepFun; RL post-training, test-time scaling) | [Xiuyu Li](https://xiuyuli.com/) (ex-xAI / BAIR; SqueezeLLM, Q-Diffusion) | [Siyuan Han](https://hsyodyssey.com/) (Binance; learned indexes, ML for systems)
 >
