@@ -87,7 +87,7 @@ We track systems where LLM agents carry out scientific workflows - hypothesis ge
 
 > **Researchers** - [Seungone Kim](https://seungonekim.github.io/) (CMU LTI; Prometheus 2, BiGGen Bench, AI for science)
 >
-> **Companies** - [Andon Labs](https://andonlabs.com/) | [Phylo](https://phylo.bio/) | [MiroFish](https://mirofish.ai/)
+> **Companies** - [Andon Labs](https://andonlabs.com/) | [Phylo](https://phylo.bio/) | [MiroFish](https://mirofish.ai/) | [OpenThoughts](https://www.open-thoughts.ai/) (open post-training and agent datasets)
 >
 > **Readings** - [Alex L. Zhang's blog](https://alexzhang13.github.io/blog/) (Recursive Language Models, harnesses, scaffolds)
 
@@ -111,6 +111,8 @@ Cross-cutting organisations we track that span multiple research directions.
 **Benchmarks & Research Trackers** - [RoboDojo](https://robodojo-benchmark.com/leaderboard) (sim-and-real benchmark for generalist robot manipulation) | [Real Deep Research](https://realdeepresearch.github.io/) (research trend surveys across AI and robotics) | [XPENG Robotics Research](https://xpeng-robotics.github.io/) (multimodal team blog: Si0, Fe0, DIAL)
 
 **Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) ([learning resources](https://activeinference.institute/resources/#learning)) | [PaperLens](https://paperlens.io/) | [ML Job Interviews: The Ultimate Guide (Silvia Sapora)](https://silviasapora.github.io/blog/ml-interviews.html) | [foorilla](https://foorilla.com/) (tech jobs and media hub) | [FMHY](https://fmhy.net/) (free resources index)
+
+**Leisure** - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) (open-source survival roguelike)
 
 ---
 
