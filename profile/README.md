@@ -29,6 +29,8 @@ We design architectures that combine neural perception with symbolic program ind
 > **Researchers** — [Jiayuan Mao](https://jiayuanm.com/) (UPenn / Amazon FAR; Neuro-Symbolic Concept Learner, Neural Logic Machines) | [Silvia Sapora](https://silviasapora.github.io/) (Google DeepMind / Oxford; explainable inverse RL, meta-learning)
 >
 > **Companies** — [Symbolica](https://symbolica.ai/) | [Logical Intelligence](https://logicalintelligence.com/) | [Symbolic Mind](https://symbolicmind.ai/) | [Sapient Intelligence](https://sapient.inc/) | [Agentic Learning AI Lab](https://agenticlearning.ai/) | [PlantingSpace](https://planting.space/) | [EquiLibre Technologies](https://www.equilibretechnologies.com/) | [AMI Labs](https://amilabs.xyz/) | [Ndea](https://ndea.com/) | [Laude Institute](https://www.laude.org/) | [ARC Prize Foundation](https://arcprize.org/) | [Axiom Math](https://axiommath.ai/)
+>
+> **Readings** — [Centaur AI Institute](https://www.centaurinstitute.org/) | [IBM Research: Neuro-Symbolic AI](https://research.ibm.com/topics/neuro-symbolic-ai) | [Turing Institute Neuro-Symbolic AI Interest Group](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
 
 ### Mechanistic Interpretability
 
@@ -108,7 +110,7 @@ Cross-cutting organisations we track that span multiple research directions.
 
 **Benchmarks & Research Trackers** - [RoboDojo](https://robodojo-benchmark.com/leaderboard) (sim-and-real benchmark for generalist robot manipulation) | [Real Deep Research](https://realdeepresearch.github.io/) (research trend surveys across AI and robotics) | [XPENG Robotics Research](https://xpeng-robotics.github.io/) (multimodal team blog: Si0, Fe0, DIAL)
 
-**Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) | [PaperLens](https://paperlens.io/) | [ML Job Interviews: The Ultimate Guide (Silvia Sapora)](https://silviasapora.github.io/blog/ml-interviews.html) | [foorilla](https://foorilla.com/) (tech jobs and media hub) | [FMHY](https://fmhy.net/) (free resources index)
+**Learning Resources** - [Centaur AI Institute](https://www.centaurinstitute.org/) | [Active Inference Institute](https://www.activeinference.institute/) ([learning resources](https://activeinference.institute/resources/#learning)) | [PaperLens](https://paperlens.io/) | [ML Job Interviews: The Ultimate Guide (Silvia Sapora)](https://silviasapora.github.io/blog/ml-interviews.html) | [foorilla](https://foorilla.com/) (tech jobs and media hub) | [FMHY](https://fmhy.net/) (free resources index)
 
 ---
 
