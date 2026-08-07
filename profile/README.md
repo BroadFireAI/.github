@@ -13,30 +13,48 @@ We are a small, independent research group working on foundational problems at t
 We develop methods for real-time 3D scene understanding — monocular depth estimation, Gaussian splatting, and spatiotemporal representations that capture how environments evolve over time. Our interest extends to world models: learned simulators of environment dynamics that enable agents to predict, plan, and act within physical spaces before committing to action.
 
 > **Inspiration** — [Google DeepMind](https://github.com/google-deepmind) | [Meta FAIR](https://github.com/facebookresearch) (JEPA) | [Google AI Studio](https://aistudio.google.com/) | [Overworld](https://over.world/) (diffusion world models)
+>
+> **Researchers** — [Danijar Hafner](https://danijar.com/) (Google DeepMind; Dreamer, PlaNet) | [Hazel Heejeong Nam](https://hazel-heejeong-nam.github.io/) (Brown; Causal-JEPA, world models + causality) | [Ruiqi Gao](https://ruiqigao.github.io/) (Google DeepMind; diffusion and multimodal generation) | [Kelly Yutong He](https://kellyyutonghe.github.io/) (CMU; guided diffusion, SDEdit) | [Ying Wang](https://yingwangg.github.io/) (NYU CILVR; latent planning, AdaJEPA) | [Ray Wang](https://raywang4.github.io/) (UC Berkeley; Equilibrium Matching, generative vision)
+>
+> **Companies** — [Overworld](https://over.world/) | Odyssey | Black Forest Labs | [World Labs](https://www.worldlabs.ai/) | [Runway](https://runwayml.com/) | Skywork AI
+>
+> **Readings** — [Energy-Based Models (MIT, Yilun Du & Shuang Li)](https://energy-based-model.github.io/Energy-based-Model-MIT/) | [ICLR 2026 Workshop on World Models](https://iclr.cc/virtual/2026/workshop/10000799) | [World Models Explained (Pebblous)](https://blog.pebblous.ai/project/AgenticAI/world-model-rise/en/)
 
 ### Neurosymbolic & Hierarchical Reinforcement Learning
 
 We design architectures that combine neural perception with symbolic program induction — enabling agents to discover compositional task structure, learn transferable hierarchical policies, and generalise to novel environments zero-shot. The goal is agents that reason, not just react.
 
 > **Inspiration** — [Symbolica](https://github.com/ExtensityAI/symbolicai) | [Sakana AI](https://github.com/SakanaAI) | [DeepMind](https://github.com/google-deepmind) | [Peking university](https://github.com/pku-ml-group/pku-ml-group.github.io/)
+>
+> **Researchers** — [Jiayuan Mao](https://jiayuanm.com/) (UPenn / Amazon FAR; Neuro-Symbolic Concept Learner, Neural Logic Machines) | [Silvia Sapora](https://silviasapora.github.io/) (Google DeepMind / Oxford; explainable inverse RL, meta-learning)
+>
+> **Companies** — [Symbolica](https://symbolica.ai/) | Logical Intelligence | [Symbolic Mind](https://symbolicmind.ai/) | Sapient | Agentic Learning | Planting Space | Equilibre Technologies | Advanced Machine Intelligence | [Ndea](https://ndea.com/) | Laude Institute | [ARC Prize Foundation](https://arcprize.org/) | Axiom Math AI
 
 ### Mechanistic Interpretability
 
 We study the internal representations of neural networks to understand *how* and *why* models behave as they do. Our interpretability work informs the design of more transparent, steerable AI systems.
 
 > **Inspiration** — [Neel Nanda / MATS](https://www.matsprogram.org/) | [GoodFire](https://github.com/goodfire-ai) | [SPAR AI](https://sparai.org/) | [Sakana AI](https://github.com/SakanaAI)
+>
+> **Companies** — [Goodfire](https://www.goodfire.ai/) | Martian | WhiteBox | [Sakana AI](https://sakana.ai/) | [Nous Research](https://nousresearch.com/)
 
 ### Efficiency
 
 We pursue research into inference-time and training-time efficiency — speculative decoding, block diffusion, quantisation, and kernel-level optimisation for making large models fast and accessible on constrained hardware.
 
 > **Inspiration** — [DFlash](https://github.com/z-lab/dflash) | [Tri Dao / FlashAttention](https://github.com/Dao-AILab) | [DeepMind](https://github.com/google-deepmind)
+>
+> **Researchers** — [Hiroki Naganuma](https://hiroki11x.github.io/) (NVIDIA / Mila; large-scale optimization, distributed training) | Fuli Luo (Xiaomi; DeepSeek-V2, VECO) | [Xiuyu Li](https://sheriyuo.github.io/) (StepFun; RL post-training, test-time scaling) | [Xiuyu Li](https://xiuyuli.com/) (ex-xAI / BAIR; SqueezeLLM, Q-Diffusion) | [Siyuan Han](https://hsyodyssey.com/) (Binance; learned indexes, ML for systems)
+>
+> **Companies** — [Inception Labs](https://www.inceptionlabs.ai/) | Google DeepMind (Diffusion Gemma) | [Cartesia](https://cartesia.ai/) | [Liquid AI](https://www.liquid.ai/)
 
 ### Scientific Machine Learning
 
 We contribute to the Julia and Python scientific computing ecosystems, particularly in medical imaging, volumetric segmentation, and differentiable scientific computing through the [JuliaHealth](https://github.com/JuliaHealth) and [SciML](https://github.com/SciML) organisations.
 
 > **Inspiration** — [SciML](https://github.com/SciML) | [JuliaHealth](https://github.com/JuliaHealth) | [Aalto ASCI](https://www.aalto.fi/en/aalto-science-institute-asci) | [Pumas AI](https://pumas.ai)
+>
+> **Companies** — Cell Bauhaus | Prima Mente | CZI AI | Boltz | [Pumas AI](https://pumas.ai) | Aeolus.Earth | Godela | Lazy Dynamics
 
 ### Human Centered AI & Mixed Reality
 
@@ -44,6 +62,46 @@ We explore the intersection of human-centered design, immersive computing, and A
 and real-time 3D rendering pipelines for accessible immersive experiences.
 
 > **Inspiration** - [Georgia Tech Polo Data Science Lab](https://poloclub.github.io/) | [Cocolinux](https://github.com/cocolinux) | [Hash3D](https://github.com/nickhui97) | [Neurosama](https://virtualyoutuber.fandom.com/wiki/Neuro-sama) | [LukeRoss VR](https://www.realvr.com/)
+>
+> **Researchers** - [Judith E. Fan](https://cogtoolslab.github.io/) (Stanford; cognitive tools, sketches as representations of thought) | [Paul Liang](https://pliang279.github.io/) (MIT Media Lab; multisensory AI, MultiBench)
+>
+> **Companies** - [Hume AI](https://www.hume.ai/) | Humans& | Infold Games | Game Science | Ubisoft | Scopely | CodeWeavers
+
+### Embodied AI
+
+We investigate agents that act in the physical world - dexterous manipulation, vision-language-action models, and embodied foundation models that close the loop between perception, reasoning, and control.
+
+> **Researchers** - [Yixiao Ge](https://geyixiao.com/) (XPENG Robotics; embodied foundation models, SEED) | [Hao Tang](https://ha0tang.github.io/) (Peking University; VLA models, generative embodied AI) | [Sarvesh Patil](https://servo97.github.io/) (CMU Robotics Institute; dexterous manipulation)
+>
+> **Companies** - XPENG Robotics | [1X](https://www.1x.tech/) | [Figure](https://www.figure.ai/) | [Physical Intelligence](https://www.physicalintelligence.company/) | [Waymo](https://waymo.com/) | ASIMOV (Menlo Research) | Sharpa Robotics | Halter | [Anduril](https://www.anduril.com/) | [Palantir](https://www.palantir.com/) | Northwood Space | P1.AI
+
+### AI Scientists & Agentic Evaluation
+
+We track systems where LLM agents carry out scientific workflows - hypothesis generation, experimentation, and synthesis - together with the evaluation machinery (LLM-as-judge, fine-grained benchmarks) needed to trust autonomous research.
+
+> **Researchers** - [Seungone Kim](https://seungonekim.github.io/) (CMU LTI; Prometheus 2, BiGGen Bench, AI for science)
+>
+> **Companies** - Andon Labs | Phylo | MiroFish
+
+### Quantum Computing & Quantum Matter
+
+We follow quantum algorithms, quantum learning theory, and quantum matter - tracking where quantum information science genuinely changes the computational landscape, and where classical methods catch up.
+
+> **Researchers** - [Ewin Tang](https://ewintang.com/) (UC Berkeley, Princeton from Fall 2026; dequantization, quantum learning theory) | [Weiguang Cao](https://tolight.github.io/) (SDU, HKUST from June 2026; non-invertible symmetries, quantum lattice models)
+---
+
+## Ecosystem Watchlist
+
+Cross-cutting organisations we track that span multiple research directions.
+
+**Frontier & Open Model Labs** - Thinking Machines Lab | Safe Superintelligence | [Meta AI](https://ai.meta.com/) | [DeepSeek](https://www.deepseek.com/) | [Moonshot AI](https://www.moonshot.ai/) | MiniMax | Meituan LongCat | ByteDance Seed | [StepFun](https://www.stepfun.com/) | [Poolside](https://poolside.ai/) | [Allen Institute for AI](https://allenai.org/) | Prometheus AI | Flapping Airplanes
+
+**NeuroAI & Unconventional Computing** - [Numenta](https://www.numenta.com/) | Stanhope.ai | Astera | NeuroDX | Translucent AI | [Cortical Labs](https://corticallabs.com/) | Entropic AI | Osmo
+
+**Compute Infrastructure** - [SF Compute](https://sfcompute.com/) | [Cast AI](https://cast.ai/) | [Prime Intellect](https://www.primeintellect.ai/)
+
+**Learning Resources** - Centaur Institute for AI | [Active Inference Institute](https://www.activeinference.institute/) | [PaperLens](https://paperlens.io/)
+
 ---
 
 ## Target Venues
