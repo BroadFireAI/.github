@@ -36,7 +36,9 @@ We study the internal representations of neural networks to understand *how* and
 
 > **Inspiration** — [Neel Nanda / MATS](https://www.matsprogram.org/) | [GoodFire](https://github.com/goodfire-ai) | [SPAR AI](https://sparai.org/) | [Sakana AI](https://github.com/SakanaAI)
 >
-> **Companies** — [Goodfire](https://www.goodfire.ai/) | [Martian](https://withmartian.com/) | [WhiteBox Research](https://www.whiteboxresearch.org/) | [Sakana AI](https://sakana.ai/) | [Nous Research](https://nousresearch.com/)
+> **Companies** — [Goodfire](https://www.goodfire.ai/) | [Martian](https://withmartian.com/) | [WhiteBox Research](https://www.whiteboxresearch.org/) | [Sakana AI](https://sakana.ai/) | [Nous Research](https://nousresearch.com/) | [J-Space Research](https://jspace.com/) (AI safety)
+>
+> **Readings** — [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2 (Neel Nanda)](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1)
 
 ### Efficiency
 
