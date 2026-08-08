@@ -12,6 +12,8 @@ We are a small, independent research group working on foundational problems at t
 
 ### Spatial Intelligence & World Models
 
+<img src="assets/world-models-meme.jpg" alt="Dudes showing up at the first conference for World Models - Spider-Men labelled JEPA, LLM, SLAM, Google Map, Video-Gen, and 3DGS dude all pointing at each other" width="480">
+
 We develop methods for real-time 3D scene understanding — monocular depth estimation, Gaussian splatting, and spatiotemporal representations that capture how environments evolve over time. Our interest extends to world models: learned simulators of environment dynamics that enable agents to predict, plan, and act within physical spaces before committing to action.
 
 > **Inspiration** — [Google DeepMind](https://github.com/google-deepmind) | [Meta FAIR](https://github.com/facebookresearch) (JEPA) | [Google AI Studio](https://aistudio.google.com/) | [Overworld](https://over.world/) (diffusion world models)
